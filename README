@@ -1,0 +1,5 @@
+The app allows the user to place a pin down on the world map, click on the pin to fetch photos that were taken around those coordinates, and saves them to Core Data. The user can then delete photos and pins, as well as look for new photos.
+
+REQUIRED SETUP:
+
+Before running the app, you must first have, or get, a Flickr API Key and replace the placeholder Flickr API Key string, which is located in the VirtualTourist/VirtualTourist/Model/Flickr/Constants.swift file, with your key.
